@@ -1,6 +1,6 @@
 [category]: <> (General)
 [date]: <> (2024/12/28)
-[title]: <> (stresczenie)
+[title]: <> (streszczenie)
 
 Streszczenie historii
 
