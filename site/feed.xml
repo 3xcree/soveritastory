@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+<channel>
+  <title>Notatki z historii</title>
+  <link>http://story.soveritas.uk/</link>
+  <description>Notatki z historii</description>
+  <image>
+      <url>http://story.soveritas.uk</url>
+      <title>Notatki z historii</title>
+      <link>http://story.soveritas.uk/</link>
+  </image>
+
+<item>
+<title>Galeria</title>
+<link>http://story.soveritas.uk/./posts/2024/12/28/galeria .html</link>
+<guid>http://story.soveritas.uk/./posts/2024/12/28/galeria .html</guid>
+<pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
+<description></description>
+</item>
+
+
+<item>
+<title>Spis tresci</title>
+<link>http://story.soveritas.uk/./posts/2024/12/28/spis tresci.html</link>
+<guid>http://story.soveritas.uk/./posts/2024/12/28/spis tresci.html</guid>
+<pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
+<description></description>
+</item>
+
+
+<item>
+<title>streszczenie</title>
+<link>http://story.soveritas.uk/./posts/2024/12/28/streszczenie.html</link>
+<guid>http://story.soveritas.uk/./posts/2024/12/28/streszczenie.html</guid>
+<pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
+<description></description>
+</item>
+
+
+<item>
+<title>Hello world</title>
+<link>http://story.soveritas.uk/./posts/2020/10/24/hello.html</link>
+<guid>http://story.soveritas.uk/./posts/2020/10/24/hello.html</guid>
+<pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+<description></description>
+</item>
+
+</channel>
+</rss>

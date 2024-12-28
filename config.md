@@ -1,4 +1,4 @@
-[title]: <> (Vitalik Buterin's website)
-[icon]: <> (http://vitalik.ca/images/icon.png)
-[domain](http://localhost)
+[title]: <> (Notatki z historii)
+[icon]: <> (http://story.soveritas.uk)
+[domain](http://story.soveritas.uk)
 [posts_directory](./posts)

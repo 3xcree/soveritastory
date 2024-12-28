@@ -1,5 +1,5 @@
 [category]: <> (General)
-[date]: <> (20204/12/28)
+[date]: <> (2024/12/28)
 [title]: <> (Spis tresci)
 
 Spis tresci zawartosci!
